@@ -1,0 +1,19 @@
+*/commentaire les test et conditions
+
+if (<condition>)
+// code executer si condition est vrai
+}
+[else if (<autreCondition>)
+{
+// code executer si autreCondition est vrai
+}]
+[else
+{
+// code executer si condition et autreCondition
+// sont fausses
+}]
+<resultat>=<test>?<valeur si vrai>:
+// si <valeur si faux>
+switch (<uneValeur>)
+{
+case (<val1>)
